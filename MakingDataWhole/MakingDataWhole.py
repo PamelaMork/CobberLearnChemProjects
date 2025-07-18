@@ -29,6 +29,7 @@ df_knn = df_numeric.copy()
 X = df_knn.drop(columns='age')
 y = df_knn['age']
 
+
 # Split known-age rows for model evaluation
 X_known = X[y.notnull()]
 y_known = y[y.notnull()]
