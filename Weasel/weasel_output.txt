@@ -1,0 +1,42 @@
+Evolution Log
+Target: CHRIST BE MY LEADER
+
+Gen   1 | Score:  4 | CHHDGZWAQKLY QGRMUI
+Gen   2 | Score:  6 | CHHDRZWAQKMY QGRMUR
+Gen   3 | Score:  7 | CHHDRZWAQKMY QGRDUR
+Gen   4 | Score:  7 | CHHDRZWAQKMY QGRDUR
+Gen   5 | Score:  8 | CHHDFZ AQKMY QGRDUR
+Gen   6 | Score: 10 | CHHDFZ BXKMY QGRDER
+Gen   7 | Score: 10 | CHHDFZ BXKMY QGRDER
+Gen   8 | Score: 11 | CHHDSZ BXKMY QGRDER
+Gen   9 | Score: 11 | CHHDSZ BXKMY QGRDER
+Gen  10 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  11 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  12 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  13 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  14 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  15 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  16 | Score: 12 | CHRDSZ BXKMY QGRDER
+Gen  17 | Score: 13 | CHRISZ BQKMY QGRDER
+Gen  18 | Score: 14 | CHRISZ BQ MY QGRDER
+Gen  19 | Score: 14 | CHRISZ BQ MY QGRDER
+Gen  20 | Score: 15 | CHRIST BQ MY QGRDER
+Gen  21 | Score: 16 | CHRIST BE MY QGRDER
+Gen  22 | Score: 16 | CHRIST BE MY QGRDER
+Gen  23 | Score: 16 | CHRIST BE MY QGRDER
+Gen  24 | Score: 16 | CHRIST BE MY QGRDER
+Gen  25 | Score: 16 | CHRIST BE MY QGRDER
+Gen  26 | Score: 16 | CHRIST BE MY QGRDER
+Gen  27 | Score: 17 | CHRIST BE MY LGRDER
+Gen  28 | Score: 18 | CHRIST BE MY LGADER
+Gen  29 | Score: 18 | CHRIST BE MY LGADER
+Gen  30 | Score: 18 | CHRIST BE MY LGADER
+Gen  31 | Score: 18 | CHRIST BE MY LGADER
+Gen  32 | Score: 18 | CHRIST BE MY LGADER
+Gen  33 | Score: 18 | CHRIST BE MY LGADER
+Gen  34 | Score: 18 | CHRIST BE MY LGADER
+Gen  35 | Score: 18 | CHRIST BE MY LGADER
+Gen  36 | Score: 18 | CHRIST BE MY LGADER
+Gen  37 | Score: 19 | CHRIST BE MY LEADER
+
+Target phrase evolved successfully!
